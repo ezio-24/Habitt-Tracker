@@ -1,8 +1,7 @@
 # Habit Tracker App
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
 
-prajwal
-![Screenshot (777)](https://github.com/Pjborntoshine/habit-tracker-master/blob/4027ca2d3d81b9b69254a9a005ba8097057b56bd/Screenshot%20(777).png)
+<img src="https://github.com/ezio-24/Habitt-Tracker/blob/main/Screenshot.png"/>
 
 ## Technologies Used
 1.  NodeJS
