@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/ezio-24/Habitt-Tracker/issues"
   },
-  "homepage": "https://github.com/rahulsups/habit-tracker#readme",
+  "homepage": "https://github.com/ezio-24/Habitt-Tracker/blob/main/README.md",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
