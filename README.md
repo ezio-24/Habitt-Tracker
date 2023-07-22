@@ -19,7 +19,7 @@
 
 ##### Clone the latest Repository
 
-`git clone [https://github.com/ezio-24/Habitt-Tracker.git]`
+`git clone https://github.com/ezio-24/Habitt-Tracker.git`
 
 ##### Into the project directory
 
